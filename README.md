@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm currently learning at ASU in the area of Engineering, which is Internet and web development.
+connect with me:
+https://www.linkedin.com/in/tarekegngeb/
 <!--
 **tgebeye1/tgebeye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
